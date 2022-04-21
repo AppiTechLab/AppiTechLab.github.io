@@ -17,7 +17,7 @@ tags:
 At the APPlied Interactive TECHnologies (AppITech) lab, we conduct applied research projects using novel interactive technologies such as **eXtended Reality (Computer Vision and Computer Graphics)** coupled to **Artificial Intelligence**. We mainly work in collaboration with companies and other research institutes (neurosciences, social work, pedagogy...).
 {: style="text-align: center;"}
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/XRtech.PNG | width=100){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/XRtech.JPG){: .align-center}
 
 Our goal is to advance technological solutions to improve treatment/learning adherence, contextualization of information and productivity. 
 {: style="text-align: center;"}
