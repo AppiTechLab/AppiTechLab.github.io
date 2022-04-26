@@ -1,4 +1,18 @@
 ---
+---
+layout: splash
+header:
+  overlay_color: "#FFF"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+excerpt: "APPlied Interactive TECHnologies -- Combining XR technologies, Artificial Intelligence and Computer Vision algorithms"
+categories:
+  - Markup
+tags:
+  - alignment
+  - content
+  - css
+  - markup
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
