@@ -3,10 +3,10 @@ main:
   - title: "Projects"
     url: /projects
   - title: "Team"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /Team
   - title: "Home"
-    url: /year-archive/
+    url: /
   - title: "Projects partners"
-    url: /collection-archive/
+    url: /Partners
   # - title: "Sitemap"
   #   url: /sitemap/
